@@ -1,9 +1,11 @@
 # Setup
 ## Create a managed k8s cluster
 Go to Digital Ocean Menu and click Kubernetes
+
 ![Digital Ocean Menu](img/1)
 
 After that click create a K8s Cluster and fill the necessary information.
+
 ![Create a Cluster](img/2.png)
 
 ## Connect to the digital ocean k8s cluster
